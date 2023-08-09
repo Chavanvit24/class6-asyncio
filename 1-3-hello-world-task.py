@@ -16,3 +16,6 @@ async def main ():
     await second_awaitable
     
 asyncio.run(main())
+
+#Wed Aug  9 13:21:50 2023 - Hello
+#Wed Aug  9 13:21:51 2023 - world!
